@@ -1,0 +1,168 @@
+Container contains 3 elements.
+It is Triangle:
+A = 4 B = 4.47214 C = 2 Square = 4 Color = RED
+It is Rectangle:
+A = 94 B = 95 Square = 8930 Color = ORANGE
+It is Circle:
+Center coordinates: x = 3 y = 4 Radius = 5 Square = 78.5398 Color = YELLOW
+
+Sorted container:
+It is Rectangle:
+A = 94 B = 95 Square = 8930 Color = ORANGE
+It is Circle:
+Center coordinates: x = 3 y = 4 Radius = 5 Square = 78.5398 Color = YELLOW
+It is Triangle:
+A = 4 B = 4.47214 C = 2 Square = 4 Color = RED
+
+Container contains 2 elements.
+It is Circle:
+Center coordinates: x = 100 y = 64 Radius = 100 Square = 31415.9 Color = CYAN
+It is Triangle:
+A = 1.41421 B = 1.41421 C = 2 Square = 1 Color = RED
+
+Sorted container:
+It is Circle:
+Center coordinates: x = 100 y = 64 Radius = 100 Square = 31415.9 Color = CYAN
+It is Triangle:
+A = 1.41421 B = 1.41421 C = 2 Square = 1 Color = RED
+
+Container contains 0 elements.
+
+Sorted container:
+
+Container contains 20 elements.
+It is Triangle:
+A = 4 B = 4.12311 C = 1 Square = 2 Color = YELLOW
+It is Triangle:
+A = 103.121 B = 60.0333 C = 118.533 Square = 3095 Color = PURPLE
+It is Circle:
+Center coordinates: x = 5 y = 4 Radius = 12 Square = 452.389 Color = CYAN
+It is Rectangle:
+A = 3 B = 55 Square = 165 Color = YELLOW
+It is Triangle:
+Something wrong with triangle coordinates!  Square = 0 Color = RED
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = CYAN
+It is Circle:
+Center coordinates: x = 0 y = 0 Radius = 100 Square = 31415.9 Color = GREEN
+It is Triangle:
+A = 50.0899 B = 17.0294 C = 63.5059 Square = 294.5 Color = GREEN
+It is Rectangle:
+A = 5 B = 1 Square = 5 Color = ORANGE
+It is Circle:
+Center coordinates: x = -1 y = -2 Radius = 100 Square = 31415.9 Color = RED
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = GREEN
+It is Triangle:
+Something wrong with triangle coordinates!  Square = 0 Color = RED
+It is Circle:
+Center coordinates: x = 1 y = 1 Radius = 1 Square = 3.14159 Color = PURPLE
+It is Rectangle:
+A = 2 B = 2 Square = 4 Color = ORANGE
+It is Triangle:
+A = 67.2681 B = 2697.61 C = 2764.79 Square = 4887.5 Color = ORANGE
+It is Rectangle:
+A = 450 B = 1550 Square = 697500 Color = YELLOW
+It is Circle:
+Center coordinates: x = -1000 y = -100 Radius = 10000 Square = 3.14159e+08 Color = GREEN
+It is Triangle:
+A = 11.7047 B = 13.0384 C = 5.38516 Square = 31.5 Color = RED
+It is Triangle:
+A = 200 B = 100.125 C = 100.125 Square = 500 Color = ORANGE
+It is Circle:
+Center coordinates: x = -1 y = -1 Radius = 1 Square = 3.14159 Color = ORANGE
+
+Sorted container:
+It is Circle:
+Center coordinates: x = -1000 y = -100 Radius = 10000 Square = 3.14159e+08 Color = GREEN
+It is Rectangle:
+A = 450 B = 1550 Square = 697500 Color = YELLOW
+It is Circle:
+Center coordinates: x = -1 y = -2 Radius = 100 Square = 31415.9 Color = RED
+It is Circle:
+Center coordinates: x = 0 y = 0 Radius = 100 Square = 31415.9 Color = GREEN
+It is Triangle:
+A = 67.2681 B = 2697.61 C = 2764.79 Square = 4887.5 Color = ORANGE
+It is Triangle:
+A = 103.121 B = 60.0333 C = 118.533 Square = 3095 Color = PURPLE
+It is Triangle:
+A = 200 B = 100.125 C = 100.125 Square = 500 Color = ORANGE
+It is Circle:
+Center coordinates: x = 5 y = 4 Radius = 12 Square = 452.389 Color = CYAN
+It is Triangle:
+A = 50.0899 B = 17.0294 C = 63.5059 Square = 294.5 Color = GREEN
+It is Rectangle:
+A = 3 B = 55 Square = 165 Color = YELLOW
+It is Triangle:
+A = 11.7047 B = 13.0384 C = 5.38516 Square = 31.5 Color = RED
+It is Rectangle:
+A = 5 B = 1 Square = 5 Color = ORANGE
+It is Rectangle:
+A = 2 B = 2 Square = 4 Color = ORANGE
+It is Circle:
+Center coordinates: x = -1 y = -1 Radius = 1 Square = 3.14159 Color = ORANGE
+It is Circle:
+Center coordinates: x = 1 y = 1 Radius = 1 Square = 3.14159 Color = PURPLE
+It is Triangle:
+A = 4 B = 4.12311 C = 1 Square = 2 Color = YELLOW
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = CYAN
+It is Triangle:
+Something wrong with triangle coordinates!  Square = 0 Color = RED
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = GREEN
+It is Triangle:
+Something wrong with triangle coordinates!  Square = 0 Color = RED
+
+Container contains 1 elements.
+It is Triangle:
+A = 2.23607 B = 5 C = 3.16228 Square = 2.5 Color = YELLOW
+
+Sorted container:
+It is Triangle:
+A = 2.23607 B = 5 C = 3.16228 Square = 2.5 Color = YELLOW
+
+Container contains 1 elements.
+It is Triangle:
+A = 2.23607 B = 3.60555 C = 5.65685 Square = 2 Color = RED
+
+Sorted container:
+It is Triangle:
+A = 2.23607 B = 3.60555 C = 5.65685 Square = 2 Color = RED
+
+Container contains 1 elements.
+It is Triangle:
+Something wrong with triangle coordinates!  Square = 0 Color = ORANGE
+
+Sorted container:
+It is Triangle:
+Something wrong with triangle coordinates!  Square = 0 Color = ORANGE
+
+Container contains 1 elements.
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = GREEN
+
+Sorted container:
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = GREEN
+
+Container contains 1 elements.
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = GREEN
+
+Sorted container:
+It is Rectangle:
+Something wrong with rectangle coordinates!  Square = 0 Color = GREEN
+
+Container contains 2 elements.
+It is Circle:
+Center coordinates: x = 1 y = 1 Radius = 1 Square = 3.14159 Color = RED
+It is Circle:
+There is an error. Radius can not be negative or zero. Square = 0 Color = RED
+
+Sorted container:
+It is Circle:
+Center coordinates: x = 1 y = 1 Radius = 1 Square = 3.14159 Color = RED
+It is Circle:
+There is an error. Radius can not be negative or zero. Square = 0 Color = RED
+
